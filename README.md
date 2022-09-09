@@ -1,10 +1,7 @@
-# php_buy
-Application programmed in php technology and shows shop
-To use it:
-<ol>
-<li>Install the <a href="https://www.docker.com/">Docker.</a></li>
-<li>Clone this repo</li>
-<li>Go to the repo's directory</li>
-<li>To launch app go to "docker" directory</li>
-<li>Enter command: "docker compose up" and app is running</li>
-</ol>
+#### The exercise for the PHP course "Learn PHP The Right Way" lesson 2.1.
+
+https://youtu.be/I_9-xWmkh28
+
+---
+#### Course Playlist
+https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-
